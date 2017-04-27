@@ -1,2 +1,2 @@
 # helloword
-hi,what are you doing ? you are fun. I likr node.js,you like?
+hi,what are you doing ? I likr node.js,you like?
